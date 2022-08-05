@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IT\'S TIME</string>
+    <string name="app_bar">better me</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_user">User</string>
+
+    <string name="time_schedule">Schedule Time</string>
+    <string name="time_actual">Actual Elapsed</string>
+    <string name="time_gap">Gap Time</string>
+
+    <string name="create_project">Make a Projects</string>
+    <string name="create_work">Have a Work</string>
+    <string name="create_avocation">Have a Avocation</string>
+    <string name="create_hobby">Have a Hobby</string>
+
+    <string name="statistic_encourage">You have insisted () hours in ()</string>
+
+    <string name="user_individuation">Individuation</string>
